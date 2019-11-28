@@ -4,6 +4,10 @@
 1) Run: docker-compose -f docker/docker-compose.yml up
 2) Run: InvilliaApplication.java
 
+Próximos passos:
+* Criar os testes, como meu tempo foi limitado esse início de semana, acabei me concentrando nas funcionalidades.
+* Adicionar o activemq para tratar os eventos async.
+
 [![Build Status](https://travis-ci.org/shelsonjava/invillia.svg?branch=master)](https://travis-ci.org/shelsonjava/invillia)
 
 ![Invillia Logo](https://invillia.com/public/assets/img/logo-invillia.svg)
